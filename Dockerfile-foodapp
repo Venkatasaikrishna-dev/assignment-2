@@ -1,6 +1,6 @@
 FROM tomcat:8.0
 
-MAINTAINER saikrishna
+MAINTAINER saikrishna.ura
 
 COPY ./food-app /usr/local/tomcat/webapps/
 
